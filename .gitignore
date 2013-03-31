@@ -98,6 +98,7 @@ Makefile.in
 /include/libsmdev/types.h
 /libsmdev/libsmdev.rc
 /libsmdev/libsmdev_definitions.h
+/smdevtools/smdevinfo
 
 # Local library dependencies specific files
 /libcdata
