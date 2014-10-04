@@ -113,7 +113,7 @@ stamp-h1
 /libcfile
 /libclocale
 /libcnotify
-/libstring
-/libsystem
+/libcstring
+/libcsystem
 /libcthreads
 /libuna
